@@ -1,6 +1,6 @@
 # ShopBillingSystem
 
-This is a sample code of my Shop billing system
+This is a sample code of my Shop billing system (Click Blame first)
 
 1.For this file to read, you should have Visual Studio in your PC (Windows Users)
 2.Open the .csprog file using your visual studio
